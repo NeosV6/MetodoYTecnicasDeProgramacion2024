@@ -11,6 +11,6 @@ package com.mycompany.metodosytecnicasdeprogramacion22024;
 public class MetodosYTecnicasDeProgramacion22024 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World ayuda!");
     }
 }
