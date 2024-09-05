@@ -17,4 +17,7 @@ public class Registro {
         this.nombre=nombre;
         this.contraseña=contraseña;
         this.Rango=Rango;    }
+    public void Mostrar(){
+        System.out.println(nombre);
+    }
 }
