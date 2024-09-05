@@ -11,6 +11,6 @@ package com.mycompany.metodosytecnicasdeprogramacion22024;
 public class enviadoEnBranchMaster {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Auxilio me desmayo");
     }
 }
